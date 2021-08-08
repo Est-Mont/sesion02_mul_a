@@ -1,0 +1,4 @@
+Los Sistemas de Coordenadas en esencia sirven para  ubicar puntos u objetos, 
+en el espacio, ya sea 2D o 3D, son una guía que nos permite saber el tamaño 
+y forma del objeto.
+El sistema más utilizado es el cartesiano.
